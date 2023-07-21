@@ -6,9 +6,6 @@ body {
 }
 
 .container {
-  background: url(images/some-total-400sq.jpg) no-repeat 0 0;
-  /* border: 1px solid #eee; */
-  height: 440px;
   margin: 20px auto;
   padding: 10px 10px 10px 420px;
   width: 400px;
