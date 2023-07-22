@@ -4,7 +4,10 @@ body {
   font-family: helvetica, arial, sans-serif;
   font-size: 14px;
   margin: 0;
+  overflow: hidden;
+  overflow-y: auto;
 }
+
 
 .container {
   margin: 20px auto;
